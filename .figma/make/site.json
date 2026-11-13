@@ -1,0 +1,10 @@
+{
+  "description": "Browse a whimsical, illustrated matcha café menu with drink options and prices, helping customers choose their next cozy café treat.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
